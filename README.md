@@ -1,12 +1,33 @@
-# React + Vite
+# 🎬 Aeterna UI Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A cinematic landing page UI built with **React** and **Tailwind CSS**. Inspired by movie/series platforms like Netflix and A24, this design features bold typography, image overlays, and dramatic text styling.
 
-Currently, two official plugins are available:
+# 🧰 Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ⚛️ React (Vite)
+- 🎨 Tailwind CSS
+- 📁 Component-based architecture
+- 💻 Responsive design
 
-## Expanding the ESLint configuration
+## 📸 Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| Dark Cinematic Layout |
+|------------------------|
+| ![screenshot](./public/Screenshot.png) |
+
+## 🧩 Features
+
+- Hero section with overlapping text on image
+- Tailwind-powered text shadows
+- Responsive and mobile-friendly layout
+- Smooth scroll to top (if implemented)
+
+## 🛠️ Getting Started
+
+To run this project locally:
+
+```bash
+git clone https://github.com/Niranjan531-droid/aeterna-ui-clone.git
+cd aeterna-ui-clone
+npm install
+npm run dev

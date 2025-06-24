@@ -13,13 +13,13 @@ A cinematic landing page UI built with **React** and **Tailwind CSS**. Inspired 
 
 | Dark Cinematic Layout |
 |------------------------|
-| ![screenshot](./public/Screenshot.png) |
+|![screenshot](https://raw.githubusercontent.com/Niranjan531-droid/aeterna-ui-clone/main/public/Screenshot.png) |
+
 
 ## 🧩 Features
 
 - Hero section with overlapping text on image
 - Tailwind-powered text shadows
-- Responsive and mobile-friendly layout
 - Smooth scroll to top (if implemented)
 
 ## 🛠️ Getting Started
